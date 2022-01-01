@@ -1,0 +1,16 @@
+{
+    "name": "louislui.scriptablestatsystem.editor",
+    "rootNamespace": "",
+    "references": [
+        "louislui.scriptablestatsystem.runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

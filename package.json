@@ -1,0 +1,19 @@
+{
+  "name": "com.louislui.scriptablestatsystem",
+  "version": "1.0.0",
+  "displayName": "Scriptable Stat System",
+  "description": "Scriptable Stat System",
+  "unity": "2020.3",
+  "keywords": [
+    "tools",
+    "systems",
+    "stat",
+    "scriptableObject"
+  ],
+  "author": {
+    "name": "louis lui",
+    "email": "",
+    "url": ""
+  },
+  "hideInEditor": false
+}
